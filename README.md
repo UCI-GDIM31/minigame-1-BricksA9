@@ -4,6 +4,8 @@ Game Changes:\
 Added several new locations for the player to move to\
 There are now a total of 23 coins\
 There are now a total of 9 spikes\
+Player speed was changed to 3 and sprint speed to 5\
+Hitbox and size of player was slightly shrunk\
 Prompt Response:\
 Take the relationship between a person, a company, and an industry.
 Components are basically people. Each component, or person, has their own job to do. When enough people are put together, you get a company.
